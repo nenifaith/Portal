@@ -1,12 +1,12 @@
 /* Global rules */
 
-@import url('https://fonts.googleapis.com/css?family=Quicksand|Spectral');
+@import url('https://fonts.googleapis.com/css?family=Quicksand|Oswald');
 
 html {
-    background-color: lightgray;
-    background-color: #efb7ba;;
-    font-family: 'Quicksand', sans-serif;
-    font-size: 0.95em;
+    background-color: rgb(252, 210, 210);
+    background-color: #FFEEE4;;
+    font-family: 'Quicksand', Manrope;
+    font-size: 0.99em;
     line-height: 1.5em;
 }
 
@@ -18,16 +18,16 @@ html {
 h1 {
     font-weight: normal;
     margin: auto;
-    background: #fff;
+    background: rgb(234, 207, 207);
     line-height: 2.5em;
 }
 
 h1.page-header{
-    font-family: 'Spectral', serif;
+    font-family: 'Spectral', Sora;
 }
 
 main.wrapper {
-    background-color: white;
+    background-color: rgb(228, 210, 210);
     overflow: auto;
 }
 
