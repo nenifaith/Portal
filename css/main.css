@@ -4,7 +4,7 @@
 
 html {
     background-color: rgb(252, 210, 210);
-    background-color: #FFEEE4;;
+    background-color: #ebd4c7b7;;
     font-family: 'Quicksand', Manrope;
     font-size: 0.99em;
     line-height: 1.5em;
@@ -27,7 +27,7 @@ h1.page-header{
 }
 
 main.wrapper {
-    background-color: rgb(228, 210, 210);
+    background-color: rgb(241, 213, 213);
     overflow: auto;
 }
 
